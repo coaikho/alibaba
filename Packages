@@ -1,0 +1,29 @@
+Package: 12act
+Name: 12act
+Architecture: iphoneos-arm
+Version: 1.0
+Description: 12ac-t12act12act12act12act12act12act12act12act12act12act12act12act12act
+Maintainer: 12act 
+Author: 12act 
+Section: System
+Filename: ./debs/com.lynguyen.12act-uncover_1.0_iphoneos-arm.deb
+Size: 4376
+MD5sum: b5e800270a8083ee98d69e4e0e9904c0
+SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
+SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,jetslammed,curl,network-cmds,lsof
+
+Package: 12ipa
+Name: 12ipa
+Architecture: iphoneos-arm
+Version: 1.1-1
+Description: 12ipa12ipa12ipa12ipa12ipa12ipa12ipa12ipa12ipa12ipa12ipa12ipa
+Maintainer: 12ipa 
+Author: 12ipa 
+Section: Utilities
+Filename: ./debs/com.atl.ipa-sileo12_1.1-1_iphoneos-arm.deb
+Size: 59320
+MD5sum: a9770dca2370af15f03b812b8f91dc7e
+SHA1: 8cefa000880f4e5e4f1f7fdd47837febb27df3a5
+SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
+Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
